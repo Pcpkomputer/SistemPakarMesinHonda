@@ -136,6 +136,12 @@
     <Compile Include="Form\FormLaporanDiagnosis.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Form\FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form\FormPilihGejala.Designer.vb">
       <DependentUpon>FormPilihGejala.vb</DependentUpon>
     </Compile>
@@ -198,6 +204,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\FormLaporanDiagnosis.resx">
       <DependentUpon>FormLaporanDiagnosis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\FormPilihGejala.resx">
       <DependentUpon>FormPilihGejala.vb</DependentUpon>

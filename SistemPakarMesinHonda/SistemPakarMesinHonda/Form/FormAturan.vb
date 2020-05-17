@@ -72,7 +72,7 @@
 
             For i = 0 To ListView1.Items.Count - 1
                 Koneksi.tutupKoneksi()
-                Dim q As New OleDb.OleDbCommand(String.Format("INSERT INTO data_aturan VALUES ('{0}','{0}')", idaturan, ListView1.Items(i).SubItems(0).Text), Koneksi.bukaKoneksi())
+                Dim q As New OleDb.OleDbCommand(String.Format("INSERT INTO data_aturan VALUES ('{0}','{1}')", idaturan, ListView1.Items(i).SubItems(0).Text), Koneksi.bukaKoneksi())
                 q.ExecuteNonQuery()
 
             Next

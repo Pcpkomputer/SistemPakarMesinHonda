@@ -80,3 +80,4 @@ D:\~fucking6\Sistem Pakar\Program\Forward-Chaining\SistemPakarMesinHonda\SistemP
 D:\~fucking6\Sistem Pakar\Program\Forward-Chaining\SistemPakarMesinHonda\SistemPakarMesinHonda\obj\Debug\SistemPakarMesinHonda.exe
 D:\~fucking6\Sistem Pakar\Program\Forward-Chaining\SistemPakarMesinHonda\SistemPakarMesinHonda\obj\Debug\SistemPakarMesinHonda.xml
 D:\~fucking6\Sistem Pakar\Program\Forward-Chaining\SistemPakarMesinHonda\SistemPakarMesinHonda\obj\Debug\SistemPakarMesinHonda.pdb
+D:\~fucking6\Sistem Pakar\Program\Forward-Chaining\SistemPakarMesinHonda\SistemPakarMesinHonda\obj\Debug\SistemPakarMesinHonda.FormLogin.resources
